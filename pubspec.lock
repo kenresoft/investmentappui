@@ -141,10 +141,10 @@ packages:
     dependency: transitive
     description:
       name: cli_util
-      sha256: "66f86e916d285c1a93d3b79587d94bd71984a66aac4ff74e524cfa7877f1395c"
+      sha256: b8db3080e59b2503ca9e7922c3df2072cf13992354d5e944074ffa836fba43b7
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.5"
+    version: "0.4.0"
   clock:
     dependency: transitive
     description:
@@ -251,10 +251,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_launcher_icons
-      sha256: "02dcaf49d405f652b7160e882bacfc02cb497041bb2eab2a49b1c393cf9aac12"
+      sha256: "526faf84284b86a4cb36d20a5e45147747b7563d921373d4ee0559c54fcdbcea"
       url: "https://pub.dev"
     source: hosted
-    version: "0.12.0"
+    version: "0.13.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -267,10 +267,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_riverpod
-      sha256: b3c3a8a9714b7f88dd2a41e1efbc47f76d620b06ab427c62ae7bc82298cd7dbb
+      sha256: "9692634c2c00d2a1a5e96bbde0b79a7c6f0f266aa266d76cd52841f791949a89"
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.2"
+    version: "2.3.5"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -310,10 +310,10 @@ packages:
     dependency: "direct main"
     description:
       name: go_router
-      sha256: dc9be8270090afe04464e8827df849a8f1041bc2c10cf854f01389bad19616d5
+      sha256: "99c7fbd4f73da5268046374576af2f6fef970088038d626c5c689a359479af40"
       url: "https://pub.dev"
     source: hosted
-    version: "6.5.3"
+    version: "6.5.7"
   graphs:
     dependency: transitive
     description:
@@ -326,10 +326,10 @@ packages:
     dependency: "direct main"
     description:
       name: hooks_riverpod
-      sha256: "7e673817a7db4d6403a079882485affd3156d79c06209389353d0977d513f905"
+      sha256: "480265a59ab0be2063ab99fee669c84c488548cc38ed37ef5dba80d4e35f1c07"
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.2"
+    version: "2.3.5"
   http_multi_server:
     dependency: transitive
     description:
@@ -494,10 +494,10 @@ packages:
     dependency: transitive
     description:
       name: riverpod
-      sha256: b0fbf7927333c5c318f7e2c22c8b4fd2542ba294de0373e80ecdb34e0dcd8dc4
+      sha256: ec5641067d111681ef825754d1327565c987985c7cb52e09bc867b78248854b2
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.2"
+    version: "2.3.5"
   shelf:
     dependency: transitive
     description:
