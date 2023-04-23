@@ -4,8 +4,8 @@ The transformation of an investment UI design to a real Flutter project.
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_20230402-181829.jpg" width="300" height="600" title="screenshot 1" alt="Default"/>
-<img src="screenshots/Screenshot_20230405-165936.jpg" width="300" height="600" title="screenshot 2" alt="Custom font applied"/>
+<img src="screenshots/Screenshot_20230402-181829.jpg" width="300" height="650" title="screenshot 1" alt="Default"/>
+<img src="screenshots/Screenshot_20230405-165936.jpg" width="300" height="650" title="screenshot 2" alt="Custom font applied"/>
 
 ## Getting Started
 
